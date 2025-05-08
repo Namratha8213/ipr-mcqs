@@ -3150,16 +3150,12 @@ const mcqsByUnit = {
     },
     {
       question:
-        "In which of the following IP rights do creators, authors, and other creators get the benefit for a fixed period?",
-      options: ["Copyright", "Trademark", "Patent", "Trade Secret"],
+        "Intellectual Property Rights protect the use of the information and expression of ideas that are of....",
+      options: ["Commercial Value", "Moral Value", "Ethical Value", "Social Value"],
       answer: 0,
     },
-    {
-      question:
-        "Which of the following is NOT considered a type of Intellectual Property?",
-      options: ["Human Resources", "Trade Secrets", "Trademarks", "Copyrights"],
-      answer: 0,
-    },
+    
+
   ],
   3: [
       {
