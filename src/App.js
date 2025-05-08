@@ -3752,9 +3752,86 @@ const mcqsByUnit = {
         options: ["Section 66A", "Section 66B", "Section 66", "Section 66C"],
         answer: 0,
       },
-      
-    
-
+      {
+        question: "What is 'cryptojacking'?",
+        options: [
+          "Unauthorized use of someone's computer to mine cryptocurrency",
+          "A method to steal cryptocurrencies",
+          "Encrypting files for ransom",
+          "Hacking into crypto exchanges"
+        ],
+        answer: 0,
+      },
+      {
+        question: "What is a 'zero-day exploit'?",
+        options: [
+          "A vulnerability in software that is exploited before a fix is available",
+          "A type of anti-virus software",
+          "An email scam",
+          "A zero-value financial scam"
+        ],
+        answer: 0,
+      },
+      {
+        question: "Which of the following best describes 'credential stuffing'?",
+        options: [
+          "Using stolen usernames and passwords to gain unauthorized access",
+          "Reusing passwords across multiple sites",
+          "Overloading a network with requests",
+          "Installing ransomware on a system"
+        ],
+        answer: 0,
+      },
+      {
+        question: "What is 'man-in-the-middle' attack?",
+        options: [
+          "An attack where the attacker intercepts and possibly alters communication between two parties without their knowledge",
+          "An attack that involves injecting code into an application",
+          "An attack that shuts down a server",
+          "An attack that manipulates database queries"
+        ],
+        answer: 0,
+      },
+      {
+        question: "Which of the following is an example of a phishing scam?",
+        options: [
+          "An email that appears to be from a legitimate source asking for login credentials",
+          "A computer virus that corrupts files",
+          "A device that monitors network traffic",
+          "A website that offers free software downloads"
+        ],
+        answer: 0,
+      },
+      {
+        question: "Which section of the IT Act, 2000 is concerned with 'punishment for cyber terrorism'?",
+        options: [
+          "Section 66F",
+          "Section 66D",
+          "Section 66C",
+          "Section 66E"
+        ],
+        answer: 0,
+      },
+      {
+        question: "What is 'data breach'?",
+        options: [
+          "Unauthorized access to or disclosure of sensitive data",
+          "Mismanagement of data storage",
+          "Data loss due to hardware failure",
+          "Data corruption from software bugs"
+        ],
+        answer: 0,
+      },
+      {
+        question: "Which of the following is a preventive measure against cybercrimes?",
+        options: [
+          "Regularly updating software and systems",
+          "Using outdated software",
+          "Sharing passwords with others",
+          "Ignoring security alerts"
+        ],
+        answer: 0,
+      }
   ],
 };
 export default function App() {
