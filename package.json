@@ -2,7 +2,7 @@
   "name": "ipr",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Namratha8213/ipr-mcqs",
+  "homepage": "https://namratha8213.github.io/ipr-mcqs",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
