@@ -90,14 +90,17 @@ body {
 }
 
 .option.correct {
-  background-color: #d1fae5;
+  background-color: rgba(16, 185, 129, 0.1); /* Light green */
   border-color: #10b981;
+  color: #065f46;
 }
 
 .option.incorrect {
-  background-color: #fee2e2;
+  background-color: rgba(239, 68, 68, 0.1); /* Light red */
   border-color: #ef4444;
+  color: #991b1b;
 }
+
 
 input[type="radio"] {
   accent-color: #6366f1;

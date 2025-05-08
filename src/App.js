@@ -3894,7 +3894,7 @@ export default function App() {
             <h2 className="question">{index + 1}. {mcq.question}</h2>
             <div className="options">
               {mcq.options.map((option, i) => {
-                const correctIndex = ['A','B','C','D'].indexOf(mcq.answer);
+                const correctIndex = mcq.answer; // Use the integer value directly
                 const isCorrect = showResults && i === correctIndex;
                 const isIncorrect = showResults && selectedAnswers[index] === i && i !== correctIndex;
                 return (
