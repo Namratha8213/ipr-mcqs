@@ -3552,6 +3552,206 @@ const mcqsByUnit = {
         ],
         answer: 0
       },
+      {
+        question: "Which term refers to the process of ensuring that e-Governance systems are accessible and usable by people with disabilities?",
+        options: ["E-Accessibility", "Digital inclusion", "Data privacy", "IT compliance"],
+        answer: 0,
+      },
+      {
+        question: "What role does cloud computing play in e-Governance?",
+        options: ["It provides scalable and cost-effective infrastructure for government services", "It increases government expenditure", "It eliminates the need for data security", "It reduces the need for digital literacy"],
+        answer: 0,
+      },
+      {
+        question: "Which of the following is an e-Governance initiative aimed at improving public service delivery in rural areas of India?",
+        options: ["Common Service Centers (CSCs)", "Digital India Hub", "E-Governance Gateway", "E-Village Program"],
+        answer: 0,
+      },
+      {
+        question: "Which concept involves using data collected from e-Governance systems to make informed policy decisions?",
+        options: ["Data analytics", "Traditional governance", "Document management", "Paper-based surveys"],
+        answer: 0,
+      },
+      {
+        question: "What is the role of the Controller of Certifying Authorities (CCA) under the IT Act?",
+        options: ["To issue digital certificates", "To regulate internet service providers", "To certify electronic documents", "To investigate cybercrime"],
+        answer: 0,
+      },
+      {
+        question: "What is the primary benefit of integrating e-Governance with mobile technology?",
+        options: ["Increased access to government services for people on the go", "Reduced internet speed", "Higher operational costs", "Decreased security"],
+        answer: 0,
+      },
+      {
+        question: "What is the primary purpose of a digital signature?",
+        options: ["To verify the authenticity of a digital message or document", "To encrypt data", "To create a digital document", "To modify digital content"],
+        answer: 0,
+      },
+      {
+        question: "Which section of the IT Act, 2000 deals with digital signatures in India?",
+        options: ["Section 5", "Section 10", "Section 6", "Section 3"],
+        answer: 0,
+      },
+      {
+        question: "What technology is commonly used to create digital signatures?",
+        options: ["Public Key Infrastructure (PKI)", "Blockchain", "Symmetric Encryption", "File Compression"],
+        answer: 0,
+      },
+      {
+        question: "What is an electronic signature?",
+        options: ["Any form of signature used in electronic communication", "A physical signature scanned into a digital format", "An encrypted code used for signing digital documents", "A signature created with a stylus or mouse on a digital device"],
+        answer: 0,
+      },
+      {
+        question: "Which of the following is a characteristic of a digital signature?",
+        options: ["It uses a private key to sign and a public key to verify", "It is typically used for physical documents", "It can be easily forged", "It does not require encryption"],
+        answer: 0,
+      },
+      {
+        question: "Which component of a digital signature is kept secret?",
+        options: ["Private key", "Public key", "Certificate Authority (CA)", "Hash value"],
+        answer: 0,
+      },
+      {
+        question: "What role does a Certificate Authority (CA) play in digital signatures?",
+        options: ["It validates and issues digital certificates", "It generates private keys", "It encrypts documents", "It stores digital signatures"],
+        answer: 0,
+      },
+      {
+        question: "Which standard is commonly used for digital signatures in the context of the IT Act, 2000 in India?",
+        options: ["X.509", "SHA-256", "ISO 27001", "RSA"],
+        answer: 0,
+      },
+      {
+        question: "Which of the following statements is true about electronic signatures under the IT Act, 2000?",
+        options: ["Electronic signatures are equivalent to handwritten signatures", "Electronic signatures must be encrypted for security", "Electronic signatures require physical presence for verification", "Electronic signatures are not legally recognized"],
+        answer: 0,
+      },
+      {
+        question: "Which section of the IT Act, 2000 deals with the appointment of the Controller of Certifying Authorities?",
+        options: ["Section 18", "Section 20", "Section 21", "Section 19"],
+        answer: 0,
+      },
+      {
+        question: "Which of the following is an example of an electronic signature?",
+        options: ["A typed name at the end of an email", "A digital certificate", "A handwritten signature scanned into a PDF", "An encrypted hash value"],
+        answer: 0,
+      },
+      {
+        question: "What is the primary advantage of using digital signatures over traditional handwritten signatures?",
+        options: ["They provide a higher level of security and verification", "They are easier to forge", "They can be used for physical documents", "They require no encryption"],
+        answer: 0,
+      },
+      {
+        question: "Which of the following is NOT a common use of digital signatures?",
+        options: ["Encrypting email content", "Verifying the authenticity of digital documents", "Ensuring data integrity", "Providing proof of identity"],
+        answer: 0,
+      },
+      {
+        question: "Which law or regulation governs the use of digital signatures in India?",
+        options: ["The IT Act, 2000", "The Digital Signature Act", "The Cybersecurity Act", "The Data Protection Act"],
+        answer: 0,
+      },
+      {
+        question: "In the context of digital signatures, what does the term 'hash function' refer to?",
+        options: ["A method to create a unique fingerprint of data", "A type of digital certificate", "A technique to encrypt data", "A service provided by Certificate Authorities"],
+        answer: 0,
+      },
+      {
+        question: "What is the purpose of the public key in digital signatures?",
+        options: ["To verify the signature", "To store the signature", "To encrypt the signature", "To generate the signature"],
+        answer: 0,
+      },
+      {
+        question: "Which document format commonly supports digital signatures?",
+        options: ["PDF", "HTML", "JPEG", "TXT"],
+        answer: 0,
+      },
+      {
+        question: "What does the term 'non-repudiation' mean in the context of digital signatures?",
+        options: ["The signer cannot deny having signed the document", "The signature can be easily removed", "The document can be altered after signing", "The signature can be replicated without authorization"],
+        answer: 0,
+      },
+      {
+        question: "Which technology ensures that a digital signature is associated with a specific document and signer?",
+        options: ["Time stamping", "Encryption", "Hashing", "Watermarking"],
+        answer: 0,
+      },
+      {
+        question: "What is an essential feature of a digital signature that makes it different from a simple electronic signature?",
+        options: ["Digital signatures use cryptographic techniques", "Digital signatures require a physical pen", "Digital signatures are less secure", "Digital signatures are used only for email communications"],
+        answer: 0,
+      },
+      {
+        question: "The IT Act, 2000 was amended by which act to include provisions related to cyber terrorism?",
+        options: ["IT (Amendment) Act, 2006", "IT (Amendment) Act, 2010", "IT (Amendment) Act, 2013", "IT (Amendment) Act, 2015"],
+        answer: 0,
+      },
+      {
+        question: "What does the term 'digital certificate' refer to in the context of digital signatures?",
+        options: ["A file containing the public key and identity of the certificate holder", "A document signed with a digital signature", "A type of encryption algorithm", "A digital representation of a handwritten signature"],
+        answer: 0,
+      },
+      {
+        question: "Which of the following is an example of a cybercrime?",
+        options: ["Identity theft", "Physical theft", "Vandalism of property", "Bank robbery"],
+        answer: 0,
+      },
+      {
+        question: "What does the term 'phishing' refer to in the context of cybercrimes?",
+        options: ["Fraudulent attempts to obtain sensitive information through deceptive emails or websites", "Hacking into networks", "Stealing physical hardware", "Planting malware on a device"],
+        answer: 0,
+      },
+      {
+        question: "Which law addresses cybercrimes in India?",
+        options: ["The IT Act, 2000", "The Indian Penal Code (IPC)", "The Cybersecurity Act", "The Data Protection Act"],
+        answer: 0,
+      },
+      {
+        question: "What is 'ransomware'?",
+        options: ["Payment for decryption", "Software that improves system performance", "A type of firewall", "An anti-virus program"],
+        answer: 0,
+      },
+      {
+        question: "Which section of the IT Act, 2000 deals with 'punishment for identity theft'?",
+        options: ["Section 66C", "Section 66D", "Section 66A", "Section 66B"],
+        answer: 0,
+      },
+      {
+        question: "What is 'DDoS' an acronym for in cybercrimes?",
+        options: ["Distributed Denial of Service", "Direct Denial of Service", "Distributed Data Service", "Direct Data Service"],
+        answer: 0,
+      },
+      {
+        question: "Which of the following is a common method used in 'social engineering' attacks?",
+        options: ["Manipulating individuals to divulge confidential information", "Installing malware", "Exploiting vulnerabilities in software", "Cracking encryption codes"],
+        answer: 0,
+      },
+      {
+        question: "Which type of malware is designed to gain unauthorized access to a system and monitor user activities?",
+        options: ["Spyware", "Trojan horse", "Virus", "Worm"],
+        answer: 0,
+      },
+      {
+        question: "What is the primary objective of 'SQL injection' attacks?",
+        options: ["To exploit vulnerabilities in web applications", "To bypass firewalls", "To encrypt user files", "To steal user passwords"],
+        answer: 0,
+      },
+      {
+        question: "Which section of the IT Act, 2000 addresses ‘Intermediary Liability’?",
+        options: ["Section 79", "Section 80", "Section 81", "Section 82"],
+        answer: 0,
+      },
+      {
+        question: "What is 'cyberstalking'?",
+        options: ["Using electronic communication to harass or intimidate someone", "Tracking online purchases", "Unauthorized access to social media accounts", "Hacking into government databases"],
+        answer: 0,
+      },
+      {
+        question: "Which section of the IT Act, 2000 deals with the 'punishment for sending offensive messages'?",
+        options: ["Section 66A", "Section 66B", "Section 66", "Section 66C"],
+        answer: 0,
+      },
       
     
 
